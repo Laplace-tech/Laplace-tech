@@ -8,7 +8,7 @@
 </section>
 
 <section style="text-align: center;">
-  <img src="https://github.com/Laplace-tech/HTML_Practice/blob/main/images/Castle.png" alt="Background Image" style="width: 100%;">
+ <img src="https://github.com/Laplace-tech/HTML_Practice/blob/main/images/Garden.png" alt="Background Image" style="width: 100%;">
   <div style="background-color: lightgrey; padding: 20px; margin-top: 20px;">
     <h2>Our Focus Areas</h2>
     <p>We primarily work with <strong>Front-end</strong> and <strong>Back-end</strong> technologies, which means we are deeply involved in web development. Our goal is to achieve effective and practical accomplishments based on creativity and diligence. We hold a steadfast resolve to never give up once we start, and we move forward together towards a common goal through collaboration with our team members.</p>
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Computer_Architecture-007396?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Computer Architecture">
   <img src="https://img.shields.io/badge/Computer_Network-28a745?style=for-the-badge&logo=network-wired&logoColor=white" alt="Computer Network">
 </section>
+
 
 <section style="background-color: #f5f5f5; padding: 20px;">
   <h1>📅 Yearly Goals</h1>
