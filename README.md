@@ -1,5 +1,5 @@
 <section style="text-align: center;">
-  <img src="https://github.com/Laplace-tech/HTML_Practice/blob/main/Summer.png" alt="Background Image" style="width: 100%;">
+  <img src="https://github.com/Laplace-tech/HTML_Practice/blob/main/images/Summer.png" alt="Background Image" style="width: 100%;">
   <div style="background-color: white; padding: 20px; margin-top: -50px;">
     <h1>Welcome to Laplace Laboratory 🎓</h1>
     <p>Hello! We are <strong>Laplace Laboratory</strong>. As members of the computer engineering field, we aspire to reshape the world with the fundamental principles of computing and the diverse technologies derived from them. We envision ourselves as the cutting edge, wielding the blade that will forge a new future. Our focus is on creative thinking and flexible, open-minded approaches to problem-solving. Through our innovative solutions, we aim to overcome challenges and drive transformative change.</p>
@@ -8,7 +8,7 @@
 </section>
 
 <section style="text-align: center;">
-  <img src="https://github.com/Laplace-tech/HTML_Practice/blob/main/Castle.png" alt="Background Image" style="width: 100%;">
+  <img src="https://github.com/Laplace-tech/HTML_Practice/blob/main/images/Castle.png" alt="Background Image" style="width: 100%;">
   <div style="background-color: lightgrey; padding: 20px; margin-top: 20px;">
     <h2>Our Focus Areas</h2>
     <p>We primarily work with <strong>Front-end</strong> and <strong>Back-end</strong> technologies, which means we are deeply involved in web development. Our goal is to achieve effective and practical accomplishments based on creativity and diligence. We hold a steadfast resolve to never give up once we start, and we move forward together towards a common goal through collaboration with our team members.</p>
