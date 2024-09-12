@@ -53,8 +53,8 @@
     <div style="text-align: left;">
       <h3><strong>CS Knowledge</strong></h3>
       <ul>
-        <li><strong>✔️ Data Stucture</strong></li>
-        <li><strong>✔️ Netework Theory</strong></li>
+        <li><strong>✔️ Data Stucture (Using C)</       strong></li>
+        
       </ul>
     </div>
   </div>
