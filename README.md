@@ -38,7 +38,27 @@
 
 <section style="background-color: #f5f5f5; padding: 20px;">
   <h1>📅 Yearly Goals</h1>
-  
+
+  <h2>2022 🎮</h2>
+  <p><strong>한거 없음, 그냥 놀았음</strong></p>
+
+  <h2>2023 📘</h2>
+  <div style="display: flex; justify-content: space-between; gap: 40px;">
+    <div style="text-align: left;">
+      <h3><strong>Framework & Language</strong></h3>
+      <ul>
+        <li><strong>✔️ Java Basic</strong></li>
+      </ul>
+    </div>
+    <div style="text-align: left;">
+      <h3><strong>CS Knowledge</strong></h3>
+      <ul>
+        <li><strong>✔️ Data Stucture</strong></li>
+        <li><strong>✔️ Netework Theory</strong></li>
+      </ul>
+    </div>
+  </div>
+
   <h2>2024 🚀</h2>
   <div style="display: flex; justify-content: space-between; gap: 40px;">
     <div style="text-align: left;">
@@ -74,7 +94,7 @@
       </ul>
     </div>
   </div>
-  
+
   <h2>2026 🕰️</h2>
   <div style="text-align: left;">
     <h3><strong>Framework & Language</strong></h3>
