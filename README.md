@@ -82,7 +82,7 @@
       <li><strong>☐ Coming Soon...</strong></li>
     </ul>
     <h3><strong>CS Knowledge</strong></h3>
-    ul>
+    <ul>
       <li><strong>☐ Coming Soon...</strong></li>
     </ul>
   </div>
