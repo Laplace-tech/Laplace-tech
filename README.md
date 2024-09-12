@@ -67,7 +67,7 @@
         <li><strong>✔️ Java</strong></li>
         <li><strong>☐ HTML, CSS, JavaScript</strong></li>
         <li><strong>☐ React.js</strong></li>
-        <li><strong>☐ Git & GitHub</strong></li>
+        <li><strong>☐ Git & GitHub<strong></li>
       </ul>
     </div>
     <div style="text-align: left;">
