@@ -19,14 +19,19 @@
 
 <section style="text-align: center;">
   <h2>🔧 Tech Stacks</h2>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/github-E34F26?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <br>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
+  <img src="https://img.shields.io/badge/gradle-8A4182?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+  <img src="https://img.shields.io/badge/amazon web services-005386?style=for-the-badge&logo=amazon web services&logoColor=black" alt="Amazonwebservices">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/javascript-FFA500?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
 </section>
 
 <section style="background-color: #f0f8ff; padding: 20px; text-align: center;">
